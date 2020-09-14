@@ -66,5 +66,11 @@
         "response": {
             "text": "weebs"
         }
+    },
+        {
+        "intent": "shoto",
+        "response": {
+            "text": "the most honorable characters"
+        }
     }
 ]
